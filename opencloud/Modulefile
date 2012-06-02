@@ -1,0 +1,8 @@
+name    'ehazlett-opencloud'
+version '0.0.1'
+source 'https://github.com/ehazlett/opencloud-puppet-module.git'
+author 'ehazlett'
+license 'Apache License, Version 2.0'
+summary 'OpenCloud puppet integration'
+description 'OpenCloud puppet integration'
+project_page 'https://github.com/ehazlett/opencloud-puppet-module'
